@@ -1,0 +1,1 @@
+int random_sum(); // generates 2 random numbers and returns sum

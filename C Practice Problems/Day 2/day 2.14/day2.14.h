@@ -1,0 +1,1 @@
+void printSketch(int n);

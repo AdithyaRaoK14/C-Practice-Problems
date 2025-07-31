@@ -1,0 +1,1 @@
+void generateSequence(int n);

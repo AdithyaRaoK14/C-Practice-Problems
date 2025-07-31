@@ -1,0 +1,1 @@
+void calculate(int a, int b, int option);

@@ -1,0 +1,1 @@
+int count_digit_occurrence(int, int);

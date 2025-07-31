@@ -1,0 +1,1 @@
+int power_of_two(const int); // returns 2^n using left shift

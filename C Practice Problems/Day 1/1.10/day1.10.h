@@ -1,0 +1,1 @@
+int is_digit_or_char(const char); // returns 1 for digit, 0 for char

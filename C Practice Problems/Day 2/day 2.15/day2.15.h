@@ -1,0 +1,1 @@
+void printPattern(int n);

@@ -1,0 +1,1 @@
+int chars_between(const char, const char); // returns number of characters in between

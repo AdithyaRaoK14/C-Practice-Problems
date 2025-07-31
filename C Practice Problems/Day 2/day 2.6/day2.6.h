@@ -1,0 +1,1 @@
+int sum_series(int n);

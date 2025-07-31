@@ -1,0 +1,1 @@
+int are_amicable(int a, int b);

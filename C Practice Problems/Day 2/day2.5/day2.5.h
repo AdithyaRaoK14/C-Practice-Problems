@@ -1,0 +1,1 @@
+void generate_primes(int*, int);

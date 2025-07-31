@@ -1,0 +1,1 @@
+int is_even(const int); // returns 1 if even, 0 if odd
