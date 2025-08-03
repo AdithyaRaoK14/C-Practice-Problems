@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1753942411 source:e:\backup 15.02.2024\msis\aug 2025\fast track c\batch 1\day2\day3_arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"day3.h"
+
+1753942455 e:\backup 15.02.2024\msis\aug 2025\fast track c\batch 1\day2\day3_arrays\day3.h
+
+1753942455 source:e:\backup 15.02.2024\msis\aug 2025\fast track c\batch 1\day2\day3_arrays\day3_operations.c
+	<stdio.h>
+	"day3.h"
+

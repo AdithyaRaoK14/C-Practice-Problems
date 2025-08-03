@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1754113366 source:e:\backup 15.02.2024\msis\aug 2025\fast track c\batch 1\day2\day5_dyanamic_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"day5.h"
+
+1754114470 e:\backup 15.02.2024\msis\aug 2025\fast track c\batch 1\day2\day5_dyanamic_array\day5.h
+
+1754114494 source:e:\backup 15.02.2024\msis\aug 2025\fast track c\batch 1\day2\day5_dyanamic_array\day5_operation.c
+	<stdlib.h>
+	<assert.h>
+	"day5.h"
+

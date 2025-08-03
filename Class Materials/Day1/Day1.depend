@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1753765324 source:e:\backup 15.02.2024\msis\aug 2025\fast track c\batch 1\day1\main.c
+	<assert.h>
+	"day1.h"
+
+1753765340 source:e:\backup 15.02.2024\msis\aug 2025\fast track c\batch 1\day1\day1_operation.c
+	"day1.h"
+
+1753765324 e:\backup 15.02.2024\msis\aug 2025\fast track c\batch 1\day1\day1.h
+
