@@ -1,0 +1,3 @@
+This file will be copied to another file.
+Make sure the destination file is empty before running.
+C programming is awesome!

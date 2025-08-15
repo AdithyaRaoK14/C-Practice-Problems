@@ -1,0 +1,3 @@
+This is a sample file.
+It has multiple lines.
+File handling in C is fun!
